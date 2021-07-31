@@ -1,8 +1,8 @@
 <h3 align="center">Sou um desenvolvedor criativo multidisciplinar,<br>
   com foco em front-end web.</h3><br>
-- Trabalhando atualmente em projetos web usando **React.js**<br>
-- Programando jogos e estudando **Unreal Engine e Unity**<br>
-- Atualmente aperfeiçoando meus conhecimentos em **React.js e Next.js**<br>
+- Trabalhando atualmente em projetos web usando React.js<br>
+- Programando jogos e estudando Unreal Engine e Unity<br>
+- Atualmente aperfeiçoando meus conhecimentos em React.js e Next.js<br>
 - Para saber mais sobre mim visite meu portifólio: [felipefazolin.com.br](felipefazolin.com.br)<br>
 - Contato rápido por e-mail: **felipefazolin@hotmail.com**
 
