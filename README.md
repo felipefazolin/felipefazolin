@@ -20,85 +20,57 @@ Linguagens e ferramentas que utilizo
 </h3>
 
 <p align="center">
- <a href="https://html.spec.whatwg.org/">
-  <img height="70" src="https://github.com/felipefazolin/logos/blob/master/html5.svg" />
- </a> 
-  &nbsp;
-  &nbsp; 
- <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-<img height="70"  src="https://github.com/felipefazolin/logos/blob/master/css3.svg" />
- </a> 
-  &nbsp;
-  &nbsp; 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/javascript.svg" />
- </a> 
-  &nbsp;
-  &nbsp; 
- <a href="https://pt-br.reactjs.org/">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/react.svg" />
- </a> 
-  &nbsp;
-  &nbsp; 
-  <a href="https://nextjs.org/">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/next.svg" />
- </a> 
-  &nbsp;
-  &nbsp; 
-  <a href="https://styled-components.com/">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/styled-components.svg" />
- </a>
-    &nbsp;
-  &nbsp;  
- <a href="https://sass-lang.com/">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/sass.svg" />
- </a> 
-  &nbsp;
-  &nbsp; 
- <a href="https://www.mongodb.com">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/mongodb.svg" />
- </a> 
-  &nbsp;
-  &nbsp; 
-  <a href="https://wordpress.com/">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/wordpress.svg" />
- </a> 
-  &nbsp;
-  &nbsp; 
-   <a href="https://strapi.io/">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/strapi.svg" />
- </a> 
-  &nbsp;
-  &nbsp; 
-  <a href="https://git-scm.com/">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git.svg" />
- </a>
-  &nbsp;
-  &nbsp; 
-<a href="https://github.com/">
- <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git-hub.svg" />
-</a> 
+<a href="https://html.spec.whatwg.org/"><img height="70" src="https://github.com/felipefazolin/logos/blob/master/html5.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://www.adobe.com/br/products/photoshop.html">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-photoshop.svg" />
-</a> 
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img height="70"  src="https://github.com/felipefazolin/logos/blob/master/css3.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://www.adobe.com/br/products/photoshop.html">
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-illustrator.svg" />
- </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/javascript.svg" /></a> 
+&nbsp;
+&nbsp; 
+<a href="https://pt-br.reactjs.org/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/react.svg" /></a> 
+&nbsp;
+&nbsp; 
+<a href="https://nextjs.org/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/next.svg" /></a> 
+&nbsp;
+&nbsp; 
+<a href="https://styled-components.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/styled-components.svg" /></a>
+&nbsp;
+&nbsp;  
+<a href="https://sass-lang.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/sass.svg" /></a> 
+&nbsp;
+&nbsp; 
+<a href="https://www.mongodb.com"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/mongodb.svg" /></a> 
+&nbsp;
+&nbsp; 
+<a href="https://wordpress.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/wordpress.svg" /></a> 
+&nbsp;
+&nbsp; 
+<a href="https://strapi.io/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/strapi.svg" /></a> 
+&nbsp;
+&nbsp; 
+<a href="https://git-scm.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git.svg" /></a>
+&nbsp;
+&nbsp; 
+<a href="https://github.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git-hub.svg" /></a> 
+&nbsp;
+&nbsp; 
+<a href="https://www.adobe.com/br/products/photoshop.html"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-photoshop.svg" /></a> 
+&nbsp;
+&nbsp; 
+<a href="https://www.adobe.com/br/products/photoshop.html"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-illustrator.svg" /></a>
 &nbsp;
 &nbsp;
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-xd.svg" />
+ <a href="https://www.adobe.com/br/products/illustrator.html"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-xd.svg" /></a>
 &nbsp;
 &nbsp;
+  <a href="https://www.unrealengine.com/">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/unreal-engine.svg" />
+ </a>
 </p>
-
 <br>
 <br>
-
 <h3 align="center">
 Top 3 linguagens mais usadas
 </h3>
