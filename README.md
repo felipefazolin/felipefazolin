@@ -15,67 +15,110 @@ Adoro combinar a programação e o design, ou usar apenas um deles, para criar s
 <br>
 <br>
 
+<h3 align="center">
+Linguagens e ferramentas que utilizo
+</h3>
 
 <p align="center">
-<img height="70" src="https://github.com/felipefazolin/logos/blob/master/html5.svg" />
+ <a href="https://html.spec.whatwg.org/">
+  <img height="70" src="https://github.com/felipefazolin/logos/blob/master/html5.svg" />
+ </a> 
   &nbsp;
-  &nbsp;
+  &nbsp; 
+ <a href="https://www.w3.org/Style/CSS/Overview.en.html">
 <img height="70"  src="https://github.com/felipefazolin/logos/blob/master/css3.svg" />
+ </a> 
   &nbsp;
-  &nbsp;
+  &nbsp; 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/javascript.svg" />
+ </a> 
   &nbsp;
-  &nbsp;
+  &nbsp; 
+ <a href="https://pt-br.reactjs.org/">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/react.svg" />
-    &nbsp;
+ </a> 
   &nbsp;
+  &nbsp; 
+  <a href="https://nextjs.org/">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/next.svg" />
-    &nbsp;
+ </a> 
   &nbsp;
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/sass.svg" />
-    &nbsp;
-  &nbsp;
+  &nbsp; 
+  <a href="https://styled-components.com/">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/styled-components.svg" />
+ </a>
     &nbsp;
+  &nbsp;  
+ <a href="https://sass-lang.com/">
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/sass.svg" />
+ </a> 
   &nbsp;
+  &nbsp; 
+ <a href="https://www.mongodb.com">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/mongodb.svg" />
-    &nbsp;
+ </a> 
   &nbsp;
+  &nbsp; 
+  <a href="https://wordpress.com/">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/wordpress.svg" />
-    &nbsp;
+ </a> 
   &nbsp;
+  &nbsp; 
+   <a href="https://strapi.io/">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/strapi.svg" />
-    &nbsp;
+ </a> 
   &nbsp;
+  &nbsp; 
+  <a href="https://git-scm.com/">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git.svg" />
-    &nbsp;
+ </a>
   &nbsp;
-<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git-hub.svg" />
-    &nbsp;
-  &nbsp;
+  &nbsp; 
+<a href="https://github.com/">
+ <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git-hub.svg" />
+</a> 
+&nbsp;
+&nbsp; 
+<a href="https://www.adobe.com/br/products/photoshop.html">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-photoshop.svg" />
-    &nbsp;
-  &nbsp;
+</a> 
+&nbsp;
+&nbsp; 
+<a href="https://www.adobe.com/br/products/photoshop.html">
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-illustrator.svg" />
-      &nbsp;
-  &nbsp;
+ </a>
+&nbsp;
+&nbsp;
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-xd.svg" />
-        &nbsp;
-  &nbsp;
+&nbsp;
+&nbsp;
 <img  height="70" src="https://github.com/felipefazolin/logos/blob/master/unreal-engine.svg" />
 </p>
 
+<br>
+<br>
+
+<h3 align="center">
+Top 3 linguagens mais usadas
+</h3>
 
 
 
-### Linguagens mais usadas
+<p align="center">
+ 
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefazolin&hide_title=1&layout=compact&langs_count=10&hide=javascript,ruby,shell,starlark,objective-c,java" />
 
+ </p>
+
+
+
+
+<!--
+ 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefazolin&hide_title=1&layout=compact&langs_count=10&hide=javascript,ruby,shell,starlark,objective-c,java)](#)
-
-
-
-
-
+ 
+-->
 
 
 
