@@ -75,10 +75,10 @@ Top 3 linguagens mais usadas
 
 
 
-<p align="center">
- 
+<p align="center"> 
+ <a href="#">
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefazolin&hide_title=1&layout=compact&langs_count=10&hide=javascript,ruby,shell,starlark,objective-c,java" />
-
+ </a>
  </p>
 
 
