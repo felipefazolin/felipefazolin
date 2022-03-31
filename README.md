@@ -1,79 +1,72 @@
 
-<p align="left">
-  <a href="www.felipefazolin.com.br">
-  <img src="https://github.com/felipefazolin/felipefazolin/blob/master/logo-felipefazolin.png" width="200" title="hover text">
-    </a>
+
+<p align="center">
+ <img src="https://github.com/felipefazolin/logos/blob/master/felipe-fazolin.svg" height="100" title="hover text">
 </p>
-
-
-Sou um desenvolvedor front-end entusiasta por criação, design e JavaScript.
 
 <br>
 
----
+<p align="center">
+ Sou um desenvolvedor front-end entusiasta por criação, design e JavaScript. <br>
+Adoro combinar a programação e o design, ou usar apenas um deles, para criar soluções criativas na web. 
+</p>
+
+
+<br>
+<br>
+
+
+<p align="center">
+<img height="70" src="https://github.com/felipefazolin/logos/blob/master/html5.svg" />
+  &nbsp;
+  &nbsp;
+<img height="70"  src="https://github.com/felipefazolin/logos/blob/master/css3.svg" />
+  &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/javascript.svg" />
+  &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/react.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/next.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/sass.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/styled-components.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/mongodb.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/wordpress.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/strapi.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git-hub.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-photoshop.svg" />
+    &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-illustrator.svg" />
+      &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-xd.svg" />
+        &nbsp;
+  &nbsp;
+<img  height="70" src="https://github.com/felipefazolin/logos/blob/master/unreal-engine.svg" />
+</p>
 
 
 
- ### Linguagens
- 
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)](#)
-
----
-
- ### Framework
-
-Front-end web
-
-[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)](#) 
- [![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
- [![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](#)
- [![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
- 
-
- 
-Game
-
-[![](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](#)
- 
- 
- ---
- 
- 
- ### Banco de dados
-[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-
-
----
-
-### CMS
-[![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#)
-[![](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)](#)
-
-
----
-
-
- ### Outros
-[![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
----
-
-
-
-### Design
-
-[![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)](#)
-[![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#)
-[![](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)](#)
-[![](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)](#)
-
-
-
----
 
 ### Linguagens mais usadas
 
