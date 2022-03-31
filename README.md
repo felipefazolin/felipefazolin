@@ -1,25 +1,25 @@
 
 
-<p align="center">
+<p align="left">
  <img src="https://github.com/felipefazolin/logos/blob/master/felipe-fazolin.svg" height="100" title="hover text">
 </p>
 
 <br>
 
-<p align="center">
+<p align="left">
  Sou um desenvolvedor front-end entusiasta por criação, design e JavaScript. <br>
 Adoro combinar a programação e o design, ou usar apenas um deles, para criar soluções criativas na web. 
 </p>
 
 
 <br>
-<br>
 
-<h3 align="center">
+
+<h3 align="left">
 Linguagens e ferramentas que utilizo
 </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://html.spec.whatwg.org/"><img height="70" src="https://github.com/felipefazolin/logos/blob/master/html5.svg" /></a> 
 &nbsp;
 &nbsp; 
@@ -68,14 +68,14 @@ Linguagens e ferramentas que utilizo
 <a href="https://www.unrealengine.com/features"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/unreal-engine.svg" /></a>
 </p>
 <br>
-<br>
-<h3 align="center">
+
+<h3 align="left">
 Top 3 linguagens mais usadas
 </h3>
 
 
 
-<p align="center"> 
+<p align="left"> 
  <a href="#">
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefazolin&hide_title=1&layout=compact&langs_count=10&hide=javascript,ruby,shell,starlark,objective-c,java" />
  </a>
