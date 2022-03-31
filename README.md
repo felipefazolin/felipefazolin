@@ -6,7 +6,7 @@
 </p>
 
 
-Desenvolvedor front-end entusiasta por criação, design e JavaScript.
+Sou um desenvolvedor front-end entusiasta por criação, design e JavaScript.
 
 <br>
 
