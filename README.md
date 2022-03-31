@@ -1,7 +1,7 @@
 
 
 <p align="left">
- <img src="https://github.com/felipefazolin/logos/blob/master/felipe-fazolin.svg" height="100" title="hover text">
+ <img src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/felipe-fazolin.svg" height="100" title="hover text">
 </p>
 
 <br>
@@ -20,52 +20,52 @@ Linguagens e ferramentas que utilizo
 </h3>
 
 <p align="left">
-<a href="https://html.spec.whatwg.org/"><img height="70" src="https://github.com/felipefazolin/logos/blob/master/html5.svg" /></a> 
+<a href="https://html.spec.whatwg.org/"><img height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/html.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img height="70"  src="https://github.com/felipefazolin/logos/blob/master/css3.svg" /></a> 
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img height="70"  src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/css3.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/javascript.svg" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/javascript.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://pt-br.reactjs.org/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/react.svg" /></a> 
+<a href="https://pt-br.reactjs.org/"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/react.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://nextjs.org/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/next.svg" /></a> 
+<a href="https://nextjs.org/"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/next.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://styled-components.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/styled-components.svg" /></a>
+<a href="https://styled-components.com/"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/styled-components.svg" /></a>
 &nbsp;
 &nbsp;  
-<a href="https://sass-lang.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/sass.svg" /></a> 
+<a href="https://sass-lang.com/"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/sass.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://www.mongodb.com"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/mongodb.svg" /></a> 
+<a href="https://www.mongodb.com"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/mongo-db.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://wordpress.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/wordpress.svg" /></a> 
+<a href="https://wordpress.com/"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/wordpress.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://strapi.io/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/strapi.svg" /></a> 
+<a href="https://strapi.io/"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/strapi.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://git-scm.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git.svg" /></a>
+<a href="https://git-scm.com/"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/git.svg" /></a>
 &nbsp;
 &nbsp; 
-<a href="https://github.com/"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/git-hub.svg" /></a> 
+<a href="https://github.com/"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/git-hub.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://www.adobe.com/br/products/photoshop.html"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-photoshop.svg" /></a> 
+<a href="https://www.adobe.com/br/products/photoshop.html"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/adobe-photoshop.svg" /></a> 
 &nbsp;
 &nbsp; 
-<a href="https://www.adobe.com/br/products/illustrator.html"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-illustrator.svg" /></a>
+<a href="https://www.adobe.com/br/products/illustrator.html"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/adobe-illustrator.svg" /></a>
 &nbsp;
 &nbsp;
- <a href="https://www.adobe.com/br/products/xd.html"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/adobe-xd.svg" /></a>
+ <a href="https://www.adobe.com/br/products/xd.html"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/adobe-xd.svg" /></a>
 &nbsp;
 &nbsp;
-<a href="https://www.unrealengine.com/features"><img  height="70" src="https://github.com/felipefazolin/logos/blob/master/unreal-engine.svg" /></a>
+<a href="https://www.unrealengine.com/features"><img  height="70" src="https://github.com/felipefazolin/ressources/blob/master/logos/purple/unreal-engine.svg" /></a>
 </p>
 <br>
 
